@@ -1,0 +1,21 @@
+.content {
+    margin: 0 auto;
+    width: 40rem;
+}
+
+.border {
+    border: 5px solid grey !important;
+    width: 40rem;
+    height: 5rem;
+    margin: 0 auto;
+    text-align: center
+}
+.generate {
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.reset {
+    float: right;
+    margin-top: 10px;
+}
